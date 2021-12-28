@@ -3,4 +3,4 @@
 Códigos desenvolvidos em vídeos ou lives do YouTube
 
 
-[![Alternate Text]({image-url})]({https://youtu.be/s5855pHUrKY} "Link Title")
+![Alt-Text](https://www.valutrades.com/hs-fs/hubfs/data-driven-trading.jpg?width=1095&name=data-driven-trading.jpg)
