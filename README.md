@@ -4,6 +4,8 @@ Códigos desenvolvidos em vídeos ou lives do YouTube
 
 Últimas lives de código realizadas:
 
+[Obtendo dados de criptomoedas via Binance e vectorbt no Python](https://youtu.be/Ux8CmoZgvWY)(20220113)
+
 [Obtenção de dados financeiros com Python (Quandl, Yahoo Finance, investpy, Metatrader e muito mais! ](https://youtu.be/sd6pQaDSRgs)(20211216)
 
 [MGLU3: Uma análise com Python ](https://youtu.be/LMVpp0xymOE)(20211208)
