@@ -17,7 +17,9 @@ Códigos desenvolvidos em vídeos ou lives do YouTube
 
 2022
 
-[Matriz Risco x Retorno no Python: aplique finanças quantitativas nos seus investimentos! ](https://youtu.be/eYI8VbaX7mo)(20220124)
+Matriz Risco x Retorno no Python: aplique finanças quantitativas nos seus investimentos! (20220124)
+[(Código) ](https://github.com/Trading-com-Dados/codigos_videos/blob/main/20220124_Matriz_Risco_vs_Retorno_YouTube.ipynb)
+[(Vídeo) ](https://youtu.be/eYI8VbaX7mo)
 
 
 
