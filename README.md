@@ -4,7 +4,9 @@ Códigos desenvolvidos em vídeos ou lives do YouTube
 
 Últimas lives de código realizadas:
 
+
 2021
+
 
 [Obtendo dados de criptomoedas via Binance e vectorbt no Python ](https://youtu.be/Ux8CmoZgvWY)(20220113)
 
@@ -14,6 +16,7 @@ Códigos desenvolvidos em vídeos ou lives do YouTube
 
 
 2022
+
 [Matriz Risco x Retorno no Python: aplique finanças quantitativas nos seus investimentos! ](https://youtu.be/eYI8VbaX7mo)(20220124)
 
 
