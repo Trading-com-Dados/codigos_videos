@@ -13,22 +13,18 @@ Para conhecer nosso canal do YouTube, clique aqui.
 2021
 
 
-[Obtendo dados de criptomoedas via Binance e vectorbt no Python ](https://youtu.be/Ux8CmoZgvWY)(20220113)
+1. [Obtendo dados de criptomoedas via Binance e vectorbt no Python ](https://youtu.be/Ux8CmoZgvWY)(20220113)
 
-[Obtenção de dados financeiros com Python (Quandl, Yahoo Finance, investpy, Metatrader e muito mais! ](https://youtu.be/sd6pQaDSRgs)(20211216)
+2. [Obtenção de dados financeiros com Python (Quandl, Yahoo Finance, investpy, Metatrader e muito mais! ](https://youtu.be/sd6pQaDSRgs)(20211216)
 
-MGLU3: Uma análise com Python (20211208)
-[(Código) ]()
-[(Vídeo)](https://youtu.be/LMVpp0xymOE)
+3. MGLU3: Uma análise com Python (20211208) [(Código) ]() [(Vídeo)](https://youtu.be/LMVpp0xymOE)
 
 
 
 2022
 
 
-Matriz Risco x Retorno no Python: aplique finanças quantitativas nos seus investimentos! (20220124)
-[(Código) ](https://github.com/Trading-com-Dados/codigos_videos/blob/main/20220124_Matriz_Risco_vs_Retorno_YouTube.ipynb)
-[(Vídeo) ](https://youtu.be/eYI8VbaX7mo)
+1. Matriz Risco x Retorno no Python: aplique finanças quantitativas nos seus investimentos! (20220124) [(Código) ](https://github.com/Trading-com-Dados/codigos_videos/blob/main/20220124_Matriz_Risco_vs_Retorno_YouTube.ipynb) [(Vídeo) ](https://youtu.be/eYI8VbaX7mo)
 
 
 
