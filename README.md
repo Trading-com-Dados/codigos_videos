@@ -30,4 +30,5 @@ Para conhecer nosso canal do YouTube, clique aqui.
 
 
 
-![Alt-Text](https://www.valutrades.com/hs-fs/hubfs/data-driven-trading.jpg?width=1095&name=data-driven-trading.jpg)
+![Alt-Text](https://www.valutrades.com/hs-fs/hubfs/data-driven-trading.jpg?width=1095&name=data-driven-trading.jpg)(https://youtu.be/LMVpp0xymOE)
+
