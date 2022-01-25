@@ -1,6 +1,11 @@
 # Códigos de lives e vídeos da Trading com Dados
 
+![](https://img.shields.io/github/commit-activity/w/Trading-com-Dados/codigos_videos?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/Trading-com-Dados/codigos_videos)
+
 Códigos desenvolvidos em vídeos ou lives do YouTube
+
+Para conhecer nosso canal do YouTube, clique aqui.
 
 Últimas lives de código realizadas:
 
