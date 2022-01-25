@@ -12,10 +12,14 @@ Códigos desenvolvidos em vídeos ou lives do YouTube
 
 [Obtenção de dados financeiros com Python (Quandl, Yahoo Finance, investpy, Metatrader e muito mais! ](https://youtu.be/sd6pQaDSRgs)(20211216)
 
-[MGLU3: Uma análise com Python ](https://youtu.be/LMVpp0xymOE)(20211208)
+MGLU3: Uma análise com Python (20211208)
+[(Código) ]()
+[(Vídeo)](https://youtu.be/LMVpp0xymOE)
+
 
 
 2022
+
 
 Matriz Risco x Retorno no Python: aplique finanças quantitativas nos seus investimentos! (20220124)
 [(Código) ](https://github.com/Trading-com-Dados/codigos_videos/blob/main/20220124_Matriz_Risco_vs_Retorno_YouTube.ipynb)
