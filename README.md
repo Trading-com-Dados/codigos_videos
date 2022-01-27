@@ -13,9 +13,9 @@ Para conhecer nosso canal do YouTube, clique aqui.
 2021
 
 
-1. [Obtendo dados de criptomoedas via Binance e vectorbt no Python ](https://youtu.be/Ux8CmoZgvWY)(20220113)
+1. [Obtendo dados de criptomoedas via Binance e vectorbt no Python ](https://youtu.be/Ux8CmoZgvWY)(20220113) (Código)(Vídeo)
 
-2. [Obtenção de dados financeiros com Python (Quandl, Yahoo Finance, investpy, Metatrader e muito mais! ](https://youtu.be/sd6pQaDSRgs)(20211216)
+2. [Obtenção de dados financeiros com Python (Quandl, Yahoo Finance, investpy, Metatrader e muito mais! ](https://youtu.be/sd6pQaDSRgs)(20211216)(Código)(Vídeo)
 
 3. MGLU3: Uma análise com Python (20211208) [(Código) ]() [(Vídeo)](https://youtu.be/LMVpp0xymOE)
 
