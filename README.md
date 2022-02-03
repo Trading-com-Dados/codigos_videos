@@ -15,21 +15,20 @@ Para conhecer nosso canal do YouTube, clique aqui.
 <b>2021</b>
 
 
-1. Fronteira Eficiente (20210504)
+1. Fronteira Eficiente (20210504)[(Código) ](https://github.com/Trading-com-Dados/codigos_videos/blob/main/20210504_Live_Fronteira_Eficiente.ipynb) [(Vídeo)](https://www.youtube.com/watch?v=AJXpQfNdgfs&t)
 
+2. [Obtenção de dados financeiros com Python (Quandl, Yahoo Finance, investpy, Metatrader e muito mais! ](https://youtu.be/sd6pQaDSRgs)(20211216)(Código)(Vídeo)
 
-
-3. [Obtenção de dados financeiros com Python (Quandl, Yahoo Finance, investpy, Metatrader e muito mais! ](https://youtu.be/sd6pQaDSRgs)(20211216)(Código)(Vídeo)
-
-4. MGLU3: Uma análise com Python (20211208) [(Código) ]() [(Vídeo)](https://youtu.be/LMVpp0xymOE)
+3. MGLU3: Uma análise com Python (20211208) [(Código) ]() [(Vídeo)](https://youtu.be/LMVpp0xymOE)
 
 
 
 <b>2022</b>
-2. [Obtendo dados de criptomoedas via Binance e vectorbt no Python ](https://youtu.be/Ux8CmoZgvWY)(20220113) (Código)(Vídeo)
+
+1. [Obtendo dados de criptomoedas via Binance e vectorbt no Python ](https://youtu.be/Ux8CmoZgvWY)(20220113) (Código)(Vídeo)
 
 
-1. Matriz Risco x Retorno no Python: aplique finanças quantitativas nos seus investimentos! (20220124) [(Código) ](https://github.com/Trading-com-Dados/codigos_videos/blob/main/20220124_Matriz_Risco_vs_Retorno_YouTube.ipynb) [(Vídeo) ](https://youtu.be/eYI8VbaX7mo)
+2. Matriz Risco x Retorno no Python: aplique finanças quantitativas nos seus investimentos! (20220124) [(Código) ](https://github.com/Trading-com-Dados/codigos_videos/blob/main/20220124_Matriz_Risco_vs_Retorno_YouTube.ipynb) [(Vídeo) ](https://youtu.be/eYI8VbaX7mo)
 
 
 
