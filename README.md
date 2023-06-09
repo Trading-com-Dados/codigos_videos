@@ -31,8 +31,8 @@ Para conhecer nosso canal do YouTube, clique aqui.
 2. Matriz Risco x Retorno no Python: aplique finanças quantitativas nos seus investimentos! (20220124) [(Código) ](https://github.com/Trading-com-Dados/codigos_videos/blob/main/20220124_Matriz_Risco_vs_Retorno_YouTube.ipynb) [(Vídeo) ](https://youtu.be/eYI8VbaX7mo)
 
 <b>2023</b>
-1. Como utilizar a BRFINANCE:
-1. [Obtendo dados de criptomoedas via Binance e vectorbt no Python ](https://youtu.be/Ux8CmoZgvWY)(20220113) (Código)(Vídeo)
+
+1. [Como utilizar a BRFINANCE](https://youtu.be/bOy1TB0RJ08)(20230508) (Código)(Vídeo)
 
 
 ![Alt-Text](https://www.valutrades.com/hs-fs/hubfs/data-driven-trading.jpg?width=1095&name=data-driven-trading.jpg)
